@@ -1,5 +1,3 @@
-# Welcome to my blog
-
 This is a temporary placeholder for Jackson Reynolds's portfolio site, soon to be hosted @ jackson-reynolds.us.
 Please enjoy this meme 
 
