@@ -1,3 +1,8 @@
+---
+title: "New Year, New Pizza"
+date: 2021-01-02
+---
+
 # Time for a Change
 
 This year we're going all veggie, every day. It's time to take climate impact
